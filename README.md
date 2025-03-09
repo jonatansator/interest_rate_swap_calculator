@@ -8,3 +8,6 @@
 ## Files
 - `interest_rate_swap_calculator.xlsx`: Spreadsheet containing swap valuation calculations, including fixed and floating rate bond present values, Treasury curve data, and swap position values.
 - `output.png`: Plot.
+
+## Screenshots
+![output](output.png)
